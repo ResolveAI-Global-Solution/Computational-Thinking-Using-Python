@@ -1,0 +1,9 @@
+FIAP - Global Solution 2026/2 - CitizenTech
+Disciplina: Computational Thinking Using Python
+Projeto: ResolveAI - Denúncias Urbanas e Ranking dos Bairros
+
+Integrantes:
+Andrei Oliveira de Sousa - RM 573373 - Turma 1TDSPW
+Felipe Coelho da Fonseca - RM 572133 - Turma 1TDSPW
+Henrique Soares Pereira - RM 569898 - Turma 1TDSPW
+Luiz Felipe Lourenço da Silva - RM 572576 - Turma 1TDSPW

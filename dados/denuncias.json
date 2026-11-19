@@ -1,0 +1,21 @@
+{
+    "proximo_id": 3,
+    "denuncias": [
+        {
+            "id": 1,
+            "categoria": "Buraco na via",
+            "bairro": "suburbano",
+            "endereco": "rua dos paulistas, numero 18",
+            "descricao": "buraco na esquina da rua",
+            "situacao": "Aberta"
+        },
+        {
+            "id": 2,
+            "categoria": "Iluminação pública",
+            "bairro": "Bela Vista",
+            "endereco": "AV. josé camargo",
+            "descricao": "falta de iluminação na avenida",
+            "situacao": "Aberta"
+        }
+    ]
+}
